@@ -1,0 +1,10 @@
+your-theme-folder/
+├── style.css
+├── functions.php
+├── header.php
+├── footer.php
+├── index.php
+├── js/
+│   └── custom.js
+└── images/
+    └── shishu_loj.jpg
